@@ -1,0 +1,11 @@
+{
+  "name": "formail",
+  "version": "0.0.1",
+  "description": "Form backend for static pages",
+  "main": "index.js",
+  "author": "Nikhil Srivastava <niksrc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "micro": "^7.3.2"
+  }
+}
