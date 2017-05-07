@@ -6,6 +6,10 @@
   "author": "Nikhil Srivastava <niksrc@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "micro": "^7.3.2"
+    "micro": "^7.3.2",
+    "nodemailer": "^4.0.1"
+  },
+  "scripts": {
+    "start": "micro"
   }
 }
